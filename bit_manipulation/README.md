@@ -8,5 +8,6 @@ Welcome to discuss if you have any suggestions.
 - No.67(easy)
 - No.401(easy)
 - No.405(easy)
+- No.1442(medium)
 - No.1763(easy)
 - No.1863(easy)
